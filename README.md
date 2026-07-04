@@ -1,159 +1,174 @@
 <div align="center">
 
-# Hi 👋, I'm Gaurav Mittal
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2563EB,100:06B6D4&text=Gaurav%20Mittal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20|%20Backend%20Developer%20|%20Game%20Developer&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;REST+API+Developer;Game+Developer+with+Unreal+Engine;Always+Learning+New+Technologies🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=2563EB&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;Spring+Boot+Backend+Developer;Building+RESTful+APIs;Learning+Microservices+and+Cloud;Unreal+Engine+Game+Developer"/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<p>
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=GauravMittal2712&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
 
----
-
-## 🚀 About Me
-
-- 💻 Java Full Stack Developer
-- 🌱 Currently learning **Microservices, Spring Cloud, Docker, Kubernetes & AWS**
-- 🚀 Passionate about Backend Development & System Design
-- 🎮 Game Developer using Unreal Engine
-- 💬 Ask me about **Java, Spring Boot, REST APIs, SQL, PostgreSQL, MySQL**
-- 📫 Reach me at **itsgaurav2711@gmail.com**
-- ⚡ Fun Fact: *I love solving backend problems and building immersive game mechanics.*
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/gaurav-mittal2712">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:itsgaurav2711@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+<img src="https://img.shields.io/github/followers/GauravMittal2712?label=Followers&logo=github&style=for-the-badge"/>
 
 </p>
 
+</div>
+
 ---
 
-# 💻 Tech Stack
+# 👨‍💻 About Me
+
+💙 Passionate Java Full Stack Developer with a strong interest in building scalable backend applications using **Spring Boot**.
+
+🚀 I enjoy solving real-world problems through clean architecture, secure REST APIs, and maintainable code.
+
+🎮 Besides backend development, I also develop games using **Unreal Engine**.
+
+---
+
+## 🌱 Currently Learning
+
+- Microservices
+- Spring Cloud
+- Docker
+- Kubernetes
+- AWS
+- System Design
+
+---
+
+## 💼 Experience
+
+### Java Full Stack Trainee
+**Bridgelabz Solutions**
+
+- Developed REST APIs using Spring Boot
+- Followed Layered Architecture
+- Implemented CRUD Operations
+- Worked with Hibernate & Spring Data JPA
+- Built secure APIs using Spring Security & JWT
+- Tested APIs using Postman
+- Managed dependencies using Maven
+
+---
+
+# 🚀 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,postgres,mysql,docker,git,github,postman,html,css,js,angular,python,tensorflow,figma,unreal,blender,vscode,idea&perline=7" />
+<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,mysql,docker,git,github,postman,html,css,js,idea,vscode,blender&perline=5"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+# 📌 Featured Projects
 
-<div align="center">
+## 📝 Online Quiz Application
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+### Tech Stack
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+- Java
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- MySQL
+- REST APIs
 
-</div>
+### Features
 
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</div>
+- User Management
+- Quiz Management
+- Question Management
+- CRUD Operations
+- Global Exception Handling
+- Layered Architecture
 
 ---
 
-# 🏆 GitHub Trophies
+## 🎮 Shadow Survival
 
-<div align="center">
+### Tech Stack
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+- Unreal Engine 5
+- Blender
 
-</div>
+### Features
 
----
-
-# 🚀 Featured Projects
-
-### 📌 Fundoo Notes Application
-✔ Spring Boot  
-✔ Spring Security + JWT  
-✔ Hibernate + JPA  
-✔ MySQL  
-✔ REST APIs
+- AI Enemy Navigation
+- Inventory System
+- Resource Collection
+- Environment Design
+- Performance Optimization
 
 ---
 
-### 🤖 AI Chatbot
-
-✔ TensorFlow  
-✔ Keras  
-✔ Python
-
----
-
-### 🎮 Survival World Game
-
-✔ Unreal Engine 5  
-✔ Blender  
-✔ C++
-
----
-
-### 🤟 Sign Language Recognition
-
-✔ OpenCV  
-✔ Deep Learning  
-✔ Python  
-✔ ONNX
-
----
-
-# 📚 Currently Learning
+# 🎯 Areas of Interest
 
 ```text
-Java ████████████████████ 100%
+✔ Backend Development
 
-Spring Boot ██████████████████ 95%
+✔ REST API Development
 
-Microservices ███████████████ 80%
+✔ Spring Boot
 
-Docker ██████████████ 70%
+✔ Microservices
 
-Kubernetes ███████████ 60%
+✔ Cloud Technologies
 
-AWS ██████████ 50%
+✔ Game Development
 ```
 
 ---
 
-# 💡 Quote
+# 📜 Certifications
 
-> "First, solve the problem. Then, write the code."
+🏅 Deloitte Data Analytics Virtual Experience
+
+- Data Visualization
+- Business Insights
+- Statistical Analysis
+
+---
+
+# 🏆 Achievement
+
+🥈 **Project Day 2024**
+
+Secured **2nd Place** among **100+ participants** at SRM Institute of Science and Technology.
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:itsgaurav2711@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gaurav-mittal2712">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/GauravMittal2712">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</div>
+
+---
+
+# 💬 Favorite Quote
+
+> **"First, solve the problem. Then, write the code."** — John Johnson
 
 ---
 
 <div align="center">
 
-### Thanks for visiting ❤️
+### ⭐ Thanks for visiting my profile!
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06B6D4,100:2563EB&section=footer"/>
 
 </div>
