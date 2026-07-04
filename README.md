@@ -1,20 +1,159 @@
-<h1 align="center">Hi 👋, I'm Gaurav Mittal</h1>
-<h3 align="center">Java Full Stack Developer 🚀 | Game Developer 🎮 | Turning ideas into applications and games</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **Microservices,Advanced Spring Boot, Cloud Technologies**
+# Hi 👋, I'm Gaurav Mittal
 
-- 💬 Ask me about **Java, Spring Boot, REST APIs, MySQL and Unreal Engine**
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;REST+API+Developer;Game+Developer+with+Unreal+Engine;Always+Learning+New+Technologies🚀" />
 
-- 📫 How to reach me **itsgaurav2711@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19cV431zv5PzdnfvLG0gp4qX2jXFFY7Pi/view?usp=drive_link](https://drive.google.com/file/d/19cV431zv5PzdnfvLG0gp4qX2jXFFY7Pi/view?usp=drive_link)
+</div>
 
-- ⚡ Fun fact **I enjoy solving backend problems and creating game mechanics.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/gaurav-mittal2712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gaurav-mittal2712" height="30" width="40" /></a>
+## 🚀 About Me
+
+- 💻 Java Full Stack Developer
+- 🌱 Currently learning **Microservices, Spring Cloud, Docker, Kubernetes & AWS**
+- 🚀 Passionate about Backend Development & System Design
+- 🎮 Game Developer using Unreal Engine
+- 💬 Ask me about **Java, Spring Boot, REST APIs, SQL, PostgreSQL, MySQL**
+- 📫 Reach me at **itsgaurav2711@gmail.com**
+- ⚡ Fun Fact: *I love solving backend problems and building immersive game mechanics.*
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/gaurav-mittal2712">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:itsgaurav2711@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,postgres,mysql,docker,git,github,postman,html,css,js,angular,python,tensorflow,figma,unreal,blender,vscode,idea&perline=7" />
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+### 📌 Fundoo Notes Application
+✔ Spring Boot  
+✔ Spring Security + JWT  
+✔ Hibernate + JPA  
+✔ MySQL  
+✔ REST APIs
+
+---
+
+### 🤖 AI Chatbot
+
+✔ TensorFlow  
+✔ Keras  
+✔ Python
+
+---
+
+### 🎮 Survival World Game
+
+✔ Unreal Engine 5  
+✔ Blender  
+✔ C++
+
+---
+
+### 🤟 Sign Language Recognition
+
+✔ OpenCV  
+✔ Deep Learning  
+✔ Python  
+✔ ONNX
+
+---
+
+# 📚 Currently Learning
+
+```text
+Java ████████████████████ 100%
+
+Spring Boot ██████████████████ 95%
+
+Microservices ███████████████ 80%
+
+Docker ██████████████ 70%
+
+Kubernetes ███████████ 60%
+
+AWS ██████████ 50%
+```
+
+---
+
+# 💡 Quote
+
+> "First, solve the problem. Then, write the code."
+
+---
+
+<div align="center">
+
+### Thanks for visiting ❤️
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
