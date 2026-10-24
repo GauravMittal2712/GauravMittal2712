@@ -54,7 +54,62 @@
 > Pulled live from my GitHub and refreshed automatically every 12 hours.
 
 <!--PROJECTS:START-->
-Projects load here after the first workflow run. Meanwhile, see my [repositories](https://github.com/GauravMittal2712?tab=repositories).
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📦 [smart-task-management](https://github.com/GauravMittal2712/smart-task-management)
+Smart Task Management System Backend - Spring Boot + JWT
+
+<code>Java</code> &nbsp;⭐ 2
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 [BridgeLabzz](https://github.com/GauravMittal2712/BridgeLabzz)
+No description yet.
+
+<code>Java</code> &nbsp;⭐ 2
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📦 [BridgelabzDailyTasklist](https://github.com/GauravMittal2712/BridgelabzDailyTasklist)
+No description yet.
+
+ &nbsp;⭐ 2
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 [3d-Adventures-Maze-Game](https://github.com/GauravMittal2712/3d-Adventures-Maze-Game)
+No description yet.
+
+ &nbsp;⭐ 2
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📦 [BookStore_Application_Frontend](https://github.com/GauravMittal2712/BookStore_Application_Frontend)
+No description yet.
+
+<code>JavaScript</code> &nbsp;⭐ 1
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 [BookStore_Application_Backend](https://github.com/GauravMittal2712/BookStore_Application_Backend)
+No description yet.
+
+<code>JavaScript</code> &nbsp;⭐ 1
+
+</td>
+</tr>
+</table>
 <!--PROJECTS:END-->
 
 ---
