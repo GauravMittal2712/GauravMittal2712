@@ -94,15 +94,15 @@ No description yet.
 <tr>
 <td width="50%" valign="top">
 
-### 📦 [Fundoo_Backend_IN_MERN_Stack](https://github.com/GauravMittal2712/Fundoo_Backend_IN_MERN_Stack)
-This is a Google keep mirror application which is made on MERN_Stack(Node.js,Express.js,Mongodb)
+### 📦 [BookStore_Application_Backend](https://github.com/GauravMittal2712/BookStore_Application_Backend)
+No description yet.
 
 <code>JavaScript</code> &nbsp;⭐ 2
 
 </td>
 <td width="50%" valign="top">
 
-### 📦 [Fundoo_Frontend_IN_MERN_Stack](https://github.com/GauravMittal2712/Fundoo_Frontend_IN_MERN_Stack)
+### 📦 [BookStore_Application_Frontend](https://github.com/GauravMittal2712/BookStore_Application_Frontend)
 No description yet.
 
 <code>JavaScript</code> &nbsp;⭐ 2
