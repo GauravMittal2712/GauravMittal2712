@@ -94,7 +94,7 @@ No description yet.
 <tr>
 <td width="50%" valign="top">
 
-### 📦 [BookStore_Application_Backend](https://github.com/GauravMittal2712/BookStore_Application_Backend)
+### 📦 [BookStore_Application_Frontend](https://github.com/GauravMittal2712/BookStore_Application_Frontend)
 No description yet.
 
 <code>JavaScript</code> &nbsp;⭐ 2
@@ -102,7 +102,7 @@ No description yet.
 </td>
 <td width="50%" valign="top">
 
-### 📦 [BookStore_Application_Frontend](https://github.com/GauravMittal2712/BookStore_Application_Frontend)
+### 📦 [BookStore_Application_Backend](https://github.com/GauravMittal2712/BookStore_Application_Backend)
 No description yet.
 
 <code>JavaScript</code> &nbsp;⭐ 2
